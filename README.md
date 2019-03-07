@@ -12,5 +12,5 @@
 
 [Java](docs/notes/programming_language/Java/contents_java.md)
 
-[Linux](docs/notes/programming_language/C&C++/contents_c&c++.md)
+[C&C++](docs/notes/programming_language/C&C++/contents_c&c++.md)
 
