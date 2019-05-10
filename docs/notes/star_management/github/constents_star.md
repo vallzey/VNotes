@@ -2,6 +2,7 @@
 > [[返回](../../../../README.md)]
 
 ---
+
 ## 不想工作
 
 * [[AIinterview](https://github.com/PPshrimpGo/AIinterview)]
@@ -13,23 +14,17 @@
 * [[architect-awesome](https://github.com/xingshaocheng/architect-awesome)]
   > 后端架构师技术图谱
 
-
-
 * [[JCSprout](https://github.com/crossoverJie/JCSprout)]
   > 处于萌芽阶段的 Java 核心知识库。
-
 
 * [[awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)]
   > 用Java解决方案的LeetCode算法（更新）。
 
-
 * [[SSM](https://github.com/crossoverJie/SSM)]
   > 从0开始分布式微服务构建SSM。
 
-
 * [[Java-concurrency](https://github.com/CL0610/Java-concurrency)]
   > Java并发知识点总结
-
 
 * [[CS-Notes](https://github.com/CyC2018/CS-Notes)]
   > 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计
@@ -37,66 +32,21 @@
 * [[Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)]
   > 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
 
-
-* [[test](test)]
-  > test
-
-* [[test](test)]
-  > test
-
-* [[test](test)]
-  > test
-
-* [[test](test)]
-  > test
-
-* [[test](test)]
-  > test
-
-* [[test](test)]
-  > test
-
-* [[test](test)]
-  > test
-
-* [[test](test)]
-  > test
-
-* [[test](test)]
-  > test
-
-
 ---
 
 ## 没事别学习
 
-* [[GNNPapers](https://github.com/thunlp/GNNPapers)]
-  > 必读的GNN论文。
-
-* [[translations](https://github.com/oldratlee/translations)]
-  > 一些不错英文资料的中文翻译。
-
 * [[LSTM-Neural-Network-for-Time-Series-Prediction](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction)]
   > LSTM使用Keras Python包构建，以预测时间序列步骤和序列。包括sin wave和股市数据。
 
-* [[the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching)]
-  > 没有自学能力的人没有未来。
-
 * [[docker_practice](https://github.com/yeasy/docker_practice)]
   > Docker — 从入门到实践
-
-
-* [[cachecloud](https://github.com/sohutv/cachecloud)]
-  > CacheCloud团队于2017年3月出版实体书《Redis开发与运维》
 
 * [[Tensorflow-Cookbook](https://github.com/taki0112/Tensorflow-Cookbook)]
   > 简单的Tensorflow Cookbook易于使用教程
 
 * [[deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle)]
   > 通过学习这些激动人心的讲座，深入学习深度学习，强化学习，机器学习，计算机视觉和NLP！
-
-* [[d2l-zh](https://github.com/d2l-ai/d2l-zh)]
-  > 《动手学深度学习》，英文版即伯克利深度学习（STAT 157，2019春）教材。面向中文读者、能运行、可讨论。
 
 * [[OI-wiki](https://github.com/24OI/OI-wiki)]
   > OI Wiki 致力于成为一个免费开放且持续更新的知识整合站点，大家可以在这里获取关于 编程竞赛 (competitive programming) 有趣又实用的知识，我们为大家准备了竞赛中的基础知识、常见题型、解题思路以及常用工具等内容，帮助大家更快速深入地学习编程竞赛。
@@ -125,25 +75,17 @@
 * [[bert](https://github.com/google-research/bert)]
   > TensorFlow代码和预先训练的BERT模型
 
-* [[time_lstm](https://github.com/ZJULearning/time_lstm)]
-  > This project is the implementation of the paper "What to Do Next: Modeling User Behaviors by Time-LSTM".
-
-
-
-* [[redis](https://github.com/antirez/redis)]
-  > 本自述文件只是一个快速入门的快速文档。您可以在redis.io上找到更详细的文档。
-
 * [[react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap)]
   > 成为2019年React开发人员的路线图
 
-* [test]
-  > test
+* [[kgraph](https://github.com/aaalgo/kgraph)]
+  > A library for k-nearest neighbor search
 
-* [test]
-  > test
+* [[Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)]
+  > 在这些教程中，我们将构建我们的第一个神经网络，并尝试构建一些近年来开发的高级神经网络架构。
 
-* [test]
-  > test
+* [[awesome-etl](https://github.com/pawl/awesome-etl)]
+  > 精选的ETL（提取，转换，加载）框架，库和软件的精选列表。
 
 ---
 
@@ -151,11 +93,11 @@
 
 * [[SPADE](https://github.com/NVlabs/SPADE)] 
   > 英伟达（NVIDIA）新开源的绘图工具。利用生成对抗网络，根据几根简单的线条就能生成栩栩如生的图像。
-  ![SPADE](fig/SPADE.gif)
+  
+  > ![SPADE](fig/SPADE.gif)
 
 * [[awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)]
   > 一个系统的阅读列表，描述了可扩展、高可用、高性能的大型系统背后的东西。每部分都是基于真实案例，讲述了如何搭建一个可扩展、高可用、高性能的大型系统，案例都是来自于经过数百万甚至数十亿用户实战检验的系统。对于所有工程师而言都是一个很好的学习资料，开卷有益。
-
 
 * [[docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)]
   > 关于Docker详细的备忘单。
@@ -186,8 +128,8 @@
 
 * [[arc-theme](https://github.com/horst3180/arc-theme)]
   > Arc是一个平面主题，具有透明元素，适用于GTK 3，GTK 2和GNOME Shell，支持基于GTK 3和GTK 2的桌面环境，如GNOME，Unity，Budgie，Pantheon，Xfce，MATE等。(Ubuntu)
-  ![SPADE](fig/arc_theme.png)
-
+  
+  > ![SPADE](fig/arc_theme.png)
 
 * [[vjtools]([test](https://github.com/vipshop/vjtools))]
   > vip.com的java编码标准，库和工具
@@ -206,15 +148,11 @@
 * [[SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow)]
   > TensorFlow中的单发多盒检测器
 
+* [[odo](https://github.com/blaze/odo)]
+  > Odo migrates data between different containers
 
-* [test]
-  > test
-
-* [test]
-  > test
-
-* [test]
-  > test
+* [[blaze](https://github.com/blaze/blaze)]
+  > Blaze将修改后的NumPy和Pandas类语法的子集转换为数据库和其他计算系统。 Blaze允许Python用户使用熟悉的界面来查询其他数据存储系统中的数据。
 
 ---
 
@@ -234,57 +172,38 @@
 
 * [[MyPerf4J](https://github.com/LinShunKang/MyPerf4J)]
   > 一个针对高并发、低延迟应用设计的高性能 Java 性能监控和统计工具。
-  ![MyPerf4J](fig/MyPerf4J.gif)
+  
+  > ![MyPerf4J](fig/MyPerf4J.gif)
 
 * [[moco](https://github.com/dreamhead/moco)]
   > Moco是一个简单的安装存根框架。
 
-
 * [[greys-anatomy](https://github.com/oldmanpushcart/greys-anatomy)]
   > 线上系统为何经常出错？数据库为何屡遭黑手？业务调用为何频频失败？连环异常堆栈案，究竟是哪次调用所为？ 数百台服务器意外雪崩背后又隐藏着什么？是软件的扭曲还是硬件的沦丧？ 走进科学带你了解Greys, Java线上问题诊断工具。
-
-
 
 * [[filebrowser](https://github.com/filebrowser/filebrowser)]
   > Web文件浏览器，可用作中间件或独立应用程序。
 
-
 * [[FeelUOwn](https://github.com/cosven/FeelUOwn)]
   > FeelUOwn 是一个符合 Unix 哲学的跨平台的音乐播放器，主要面向 Linux/macOS 用户。
-  ![FeelUOwn](fig/FeelUOwn.png)
-
-
-
+  
+  > ![FeelUOwn](fig/FeelUOwn.png)
 
 * [[hue](https://github.com/cloudera/hue)]
   > Hue是一个开源SQL Workbench，用于在云/本地数据仓库中浏览，查询和可视化数据：gethue.com
 
 
-* [[test](test)]
-  > test
+* [[lazygit](https://github.com/jesseduffield/lazygit)]
+  > git命令的简单终端UI
 
+* [[dejavu](https://github.com/worldveil/dejavu)]
+  > Dejavu可以通过聆听音频并对其进行指纹识别来记忆音频。然后，通过播放歌曲和录制麦克风输入，Dejavu尝试将音频与数据库中保存的指纹进行匹配，然后返回正在播放的歌曲。
 
-* [[test](test)]
-  > test
+* [[baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx)]
+  > 百度网盘不限速下载器 BND，支持 Windows、Mac 和 Linux。
 
-
-* [[test](test)]
-  > test
-
-
-* [[test](test)]
-  > test
-
-
-* [[test](test)]
-  > test
-
-
-* [[test](test)]
-  > test
-
-
-
+* [[Boostnote](https://github.com/BoostIO/Boostnote)]
+  > 适用于Mac，Windows和Linux的开发人员的markdown编辑器
 
 ---
 
@@ -296,26 +215,54 @@
 * [[document-style-guide](https://github.com/ruanyf/document-style-guide)]
   > 中文技术文档的写作规范
 
-
-
 * [[API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist/blob/master/README-zh.md)]
   > 开发安全的 API 所需要核对的清单
-
-
 
 * [[disconf](https://github.com/knightliao/disconf)]
   > Distributed Configuration Management Platform(分布式配置管理平台)
   > 专注于各种「分布式系统配置管理」的「通用组件」和「通用平台」, 提供统一的「配置管理服务」
 
+---
 
-* [test]
-  > test
+## books
 
-* [test]
-  > test
+* [[es6tutorial](https://github.com/ruanyf/es6tutorial)]
+  > 《ECMAScript 6 入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
+  
+  >  ![es6tutorial](fig/es6tutorial.jpg)
 
-* [test]
-  > test
+* [[deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)]
+  > deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
 
-* [test]
-  > test
+* [[translations](https://github.com/oldratlee/translations)]
+  > 一些不错英文资料的中文翻译。
+
+* [[the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching)]
+  > 没有自学能力的人没有未来。
+
+* [[cachecloud](https://github.com/sohutv/cachecloud)]
+  > CacheCloud团队于2017年3月出版实体书《Redis开发与运维》
+
+* [[d2l-zh](https://github.com/d2l-ai/d2l-zh)]
+  > 《动手学深度学习》，英文版即伯克利深度学习（STAT 157，2019春）教材。面向中文读者、能运行、可讨论。
+
+* [[redis](https://github.com/antirez/redis)]
+  > 本自述文件只是一个快速入门的快速文档。您可以在redis.io上找到更详细的文档。
+
+---
+
+## papers
+
+* [[Deep-Learning-for-Recommendation-Systems](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems)]
+  > 此存储库包含基于深度学习的文章，推荐系统的纸张和存储库
+
+* [[Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)]
+  > 吴恩达老师的机器学习课程个人笔记
+
+* [[GNNPapers](https://github.com/thunlp/GNNPapers)]
+  > 必读的GNN论文。
+
+* [[time_lstm](https://github.com/ZJULearning/time_lstm)]
+  > This project is the implementation of the paper "What to Do Next: Modeling User Behaviors by Time-LSTM".
+
+---
