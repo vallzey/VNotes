@@ -2,8 +2,14 @@
 > [[返回](../../../../README.md)]
 
 ---
+***
+## 工作
+
 
 ## 学习
+
+* [[GNNPapers](https://github.com/thunlp/GNNPapers)]
+  > 必读的GNN论文。
 
 ---
 
@@ -19,8 +25,8 @@
 * [[docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)]
   > 关于Docker详细的备忘单。
 
-* [[docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)]
-  > 关于Docker详细的备忘单。
+* [[netdata](https://github.com/netdata/netdata)]
+  > Netdata是系统和应用程序的分布式，实时，性能和健康监控。它是您在所有系统和容器上安装的高度优化的监视代理程序。
 
 * [[docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)]
   > 关于Docker详细的备忘单。
